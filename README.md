@@ -14,7 +14,6 @@ Uygulama temel olarak iki ana kontrolcü (Controller) üzerinden yönetilir:
     * 🔒 **Kullanıcı Kaydı:** Yeni kullanıcı oluşturma.
     * 🔑 **Giriş (Login):** Kayıtlı kullanıcıların sisteme güvenli girişi.
     * 🚪 **Çıkış (Logout):** Oturum sonlandırma.
-    * *(Opsiyonel)*: Şifrelerin Hash'lenerek (Bcrypt vb.) saklanması.
 
 * **Kullanıcı ve Görev Yönetimi - `users.js`**
     * 📋 **Liste Görüntüleme:** Kullanıcıya özel görevlerin listelenmesi.
