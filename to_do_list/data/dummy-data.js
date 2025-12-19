@@ -69,7 +69,7 @@ const lock=1;
     
     const group=await Group.bulkCreate([
     {name:'null'},
-    {name:'Alihan-Recep'},
+    {name:'Alihan-Gökhan'},
     {name:'Ahmet-Mehmet'},
     {name:'gsm operator 1'},
     {name:'gsm operator 2'},
